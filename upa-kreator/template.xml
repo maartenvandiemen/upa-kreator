@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PensioenAangifte xmlns="http://www.pensioenfederatie.nl/uniformePensioenAangifte/2024/01" Version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Bericht>
+		<IdBer>2024-SPROPP-12</IdBer>
+		<DatTdAanm>2024-06-20T08:01:20</DatTdAanm>
+		<ContPers>PGGM</ContPers>
+		<TelNr>030-1234567</TelNr>
+		<RelNr>swo001</RelNr>
+		<GebrSwPakket>PGGM01</GebrSwPakket>
+		<IdLcr>320556</IdLcr>
+		<NmLcr>PFZW Test</NmLcr>
+	</Bericht>
+	<AdministratieveEenheid>
+		<LhNr>864341404L01</LhNr>
+		<NmIP>Test</NmIP>
+		<TvkCd>MND</TvkCd>
+		<TijdvakAangifte>
+			<DatAanvTv>2024-01-01</DatAanvTv>
+			<DatEindTv>2024-01-31</DatEindTv>
+			<AanvullendeAangifte>
+				<CollectieveAangifte>
+					<TotaalRegelingen>
+						<RelNrAansl>320556</RelNrAansl>
+						<RegKnmrk>U0536-2001</RegKnmrk>
+						<TotRegLn>45000</TotRegLn>
+						<TotGrslPremie>3107.96</TotGrslPremie>
+						<TotPremieReg>730.36</TotPremieReg>
+						<TotAantVerlUReg>167</TotAantVerlUReg>
+						<TotIkvReg>1</TotIkvReg>
+						<TotPersReg>1</TotPersReg>
+					</TotaalRegelingen>
+		  		</CollectieveAangifte>						
+				<InkomstenverhoudingInitieel>							
+					<NumIV>1</NumIV>
+					<DatAanv>2024-01-01</DatAanv>
+					<NatuurlijkPersoon>
+						<SofiNr>450405394</SofiNr> <!-- Input -->
+						<Voorl>E.</Voorl> <!-- Input -->
+						<Voorv></Voorv> <!-- Input -->
+						<SignNm>Rutgers</SignNm> <!-- Input -->
+						<Gebdat>1987-05-12</Gebdat> <!-- Input -->
+						<Nat>1</Nat>
+						<Gesl>1</Gesl>
+						<CdBurgSt>1</CdBurgSt>
+						<AdresBinnenland>
+							<Str>Noordweg Noord</Str>
+							<HuisNr>150</HuisNr>
+							<Pc>3704JG</Pc>
+							<Woonpl>Zeist</Woonpl>
+						</AdresBinnenland>
+					</NatuurlijkPersoon>
+					<Inkomstenperiode>
+						<DatAanv>2024-01-01</DatAanv>
+						<SrtIV>15</SrtIV>
+						<CdAard>1</CdAard>
+						<FsIndFZ>44</FsIndFZ>
+						<CAO>721</CAO>
+						<LbTab>999</LbTab>
+						<FuncOms>Tester</FuncOms>
+						<AantUNormWk>38</AantUNormWk>
+						<PtPerc>100.00</PtPerc>
+						<IndGenReg>N</IndGenReg>
+					</Inkomstenperiode>
+					<Werknemersgegevens>
+						<LnUBruto>25.25</LnUBruto>
+						<LnLbPh>2312.82</LnLbPh>
+						<LnSV>2312.82</LnSV>
+						<LnTabBB>0.00</LnTabBB>
+						<VakBsl>0.00</VakBsl>
+						<OpgRchtVakBsl>212</OpgRchtVakBsl>
+						<OpnAvwb>0.00</OpnAvwb>
+						<OpbAvwb>8.34</OpbAvwb>
+						<LnInGld>2655.96</LnInGld>
+						<LnOwrk>0.00</LnOwrk>
+						<AantVerlU>167</AantVerlU>
+						<Prov>0.00</Prov>
+						<OnrTsl>0.00</OnrTsl>
+					</Werknemersgegevens>
+					<Sector>
+						<DatAanvSect>2024-01-01</DatAanvSect>
+						<Sect>052</Sect>
+					</Sector>
+					<RegelingGegevens>
+						<DatAanvRegGeg>2024-01-01</DatAanvRegGeg>
+						<DatEindRegGeg>2024-01-31</DatEindRegGeg>
+						<IndEindDln>N</IndEindDln>
+						<RelNrAansl>320556</RelNrAansl>
+						<RegKnmrk>U0536-2001</RegKnmrk>
+						<RegLn>45000.00</RegLn>
+						<PremieGrslg>2204.29</PremieGrslg>
+						<PremieTot>518.00</PremieTot>
+						<PremieWkn>259.00</PremieWkn>
+						<AantVerlUPens>167</AantVerlUPens> <!-- input -->
+					</RegelingGegevens>
+				</InkomstenverhoudingInitieel>
+			</AanvullendeAangifte>
+		</TijdvakAangifte>
+	</AdministratieveEenheid>
+</PensioenAangifte>
